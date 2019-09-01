@@ -62,6 +62,10 @@ ___
 * [Jest Html Reporter](https://github.com/Hargne/jest-html-reporter)
 ___
 
+## Video on understanding the framework components and how to run?
+* [Video Tutorial](https://www.youtube.com/watch?v=bvZlr6lWS9Y)
+___
+
 ## Prerequisites
 Best Buy Api playground should be running at http://localhost:3030
 ___
