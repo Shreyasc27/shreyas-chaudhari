@@ -1,0 +1,158 @@
+{
+    
+    "data": {
+        "id": 346575,
+            "name": "Metra - Radio Installation Dash Kit for Most 1989-2000 Ford, Lincoln & Mercury Vehicles - Black",
+            "type": "HardGood",
+            "price": 16.99,
+            "upc": "086429002757",
+            "shipping": 0,
+            "description": "From our expanded online assortment; compatible with most 1989-2000 Ford, Lincoln and Mercury vehicles; snap-in TurboKit offers fast installation; spacer/trim ring; rear support bracket",
+            "manufacturer": "Metra",
+            "model": "99-5512",
+            "url": "http://www.bestbuy.com/site/metra-radio-installation-dash-kit-for-most-1989-2000-ford-lincoln-mercury-vehicles-black/346575.p?id=1218118704590&skuId=346575&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/3465/346575_rc.jpg",
+            "createdAt": "2016-11-17T17:58:03.298Z",
+            "updatedAt": "2016-11-17T17:58:03.298Z",
+            "categories": [
+                {
+                    "id": "abcat0300000",
+                    "name": "Car Electronics & GPS",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat165900050023",
+                    "name": "Car Installation Parts & Accessories",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                },
+                {
+                    "id": "pcmcat165900050031",
+                    "name": "Deck Installation Parts",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                },
+                {
+                    "id": "pcmcat165900050033",
+                    "name": "Dash Installation Kits",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                },
+                {
+                    "id": "pcmcat331600050007",
+                    "name": "Car Audio Installation Parts",
+                    "createdAt": "2016-11-17T17:57:04.643Z",
+                    "updatedAt": "2016-11-17T17:57:04.643Z"
+                }
+            ]
+    },
+
+    "schema": {
+        "total": 51957,
+        "limit": 10,
+        "skip": 0,
+        "data": [{
+            "id": 185230,
+            "name": "Duracell - C Batteries (4-Pack)",
+            "type": "HardGood",
+            "price": 8.99,
+            "upc": "041333440019",
+            "shipping": 0,
+            "description": "Compatible with select electronic devices; C size; DURALOCK Power Preserve technology; 4-pack",
+            "manufacturer": "Duracell",
+            "model": "MN1400R4Z",
+            "url": "http://www.bestbuy.com/site/duracell-c-batteries-4-pack/185230.p?id=1051384046486&skuId=185230&cmp=RMXCC",
+            "image": "http://img.bbystatic.com/BestBuy_US/images/products/1852/185230_sa.jpg",
+            "createdAt": "2016-11-17T17:58:03.298Z",
+            "updatedAt": "2016-11-17T17:58:03.298Z",
+            "categories": [{
+                    "id": "abcat0208002",
+                    "name": "Alkaline Batteries",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat248700050021",
+                    "name": "Housewares",
+                    "createdAt": "2016-11-17T17:57:05.399Z",
+                    "updatedAt": "2016-11-17T17:57:05.399Z"
+                },
+                {
+                    "id": "pcmcat303600050001",
+                    "name": "Household Batteries",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                },
+                {
+                    "id": "pcmcat312300050015",
+                    "name": "Connected Home & Housewares",
+                    "createdAt": "2016-11-17T17:57:04.285Z",
+                    "updatedAt": "2016-11-17T17:57:04.285Z"
+                }
+            ]
+        }]
+    },
+
+    "invalidid": 8108487025,
+
+    "notfound": {
+        "name": "NotFound",
+        "message": "No record found for id '8108487025'",
+        "code": 404,
+        "className": "not-found",
+        "errors": {}
+    },
+
+    "postrequest": {
+        "name": "New Apple MacBook Pro",
+        "type": "Laptop",
+        "price": 103920,
+        "shipping": 800,
+        "upc": "Nothing",
+        "description": "Apple Mac Laptop",
+        "manufacturer": "Apple",
+        "model": "13 inch MacBook Pro",
+        "url": "https://www.apple.com/in/macbook-pro/?&cid=wwa-in-kwgo-mac-slid-&mnid=snJipG5Dl-dc_mtid_20925bno61721_pcrid_362682122783_pgrid_55857530789_&mtid=20925bno61721&aosid=p238&cid=wwa-in-kwgo-mac-slid-&mnid=snJipG5Dl-dc_mtid_20925bno61721_pcrid_362682122783_&anonymizeip=set",
+        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fstore.storeimages.cdn-apple.com"
+    },
+
+    "badrequest": {
+        "name": "New Apple MacBook Pro",
+        "price": 103920,
+        "shipping": 800,
+        "upc": "Nothing",
+        "description": "Apple Mac Laptop",
+        "manufacturer": "Apple",
+        "model": "13 inch MacBook Pro",
+        "url": "https://www.apple.com/in/macbook-pro/?&cid=wwa-in-kwgo-mac-slid-&mnid=snJipG5Dl-dc_mtid_20925bno61721_pcrid_362682122783_pgrid_55857530789_&mtid=20925bno61721&aosid=p238&cid=wwa-in-kwgo-mac-slid-&mnid=snJipG5Dl-dc_mtid_20925bno61721_pcrid_362682122783_&anonymizeip=set",
+        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fstore.storeimages.cdn-apple.com"    
+    },
+
+    "emptypostresponse": {
+        "name": "BadRequest",
+        "message": "Invalid Parameters",
+        "code": 400,
+        "className": "bad-request",
+        "data": {},
+        "errors": [
+            "should have required property 'name'",
+            "should have required property 'type'",
+            "should have required property 'upc'",
+            "should have required property 'description'",
+            "should have required property 'model'"
+        ]
+    },
+
+    "badresponse": {
+        "name": "BadRequest",
+        "message": "Invalid Parameters",
+        "code": 400,
+        "className": "bad-request",
+        "data": {},
+        "errors": [
+            "should have required property 'type'"
+        ]
+    }
+
+}

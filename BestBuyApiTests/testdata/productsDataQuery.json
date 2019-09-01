@@ -1,0 +1,27 @@
+{
+
+    "notfound": {
+        "name": "NotFound",
+        "message": "No record found for id '8108487025'",
+        "code": 404,
+        "className": "not-found",
+        "errors": {}
+    },
+
+    "invalidid": 8108487025,
+
+    "type": "HardGood",
+    
+    "othertype": "Software",
+    
+    "price": 1,
+    
+    "otherprice": 30,
+    
+    "shippingprice": 50,
+    
+    "category": "Small Kitchen Appliances",
+    
+    "categoryid": "pcmcat367400050002"
+    
+}

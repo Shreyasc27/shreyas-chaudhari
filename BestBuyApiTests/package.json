@@ -1,0 +1,23 @@
+{
+  "name": "bestbuyapitestingframework",
+  "version": "1.0.0",
+  "description": "Test suite to verify the Best But Apis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "vulnerabilityCheck": "npm audit",
+    "lint": "eslint --ignore-path .gitignore ."
+  },
+  "author": "Shreyas Sanjeev Chaudhari",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "jest-cli": "^24.9.0",
+    "jest-html-reporter": "^2.5.0",
+    "superagent": "^5.1.0",
+    "superagent-retry": "^0.6.0"
+  },
+  "dependencies": {
+    "supertest": "^4.0.2"
+  }
+}
